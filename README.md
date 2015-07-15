@@ -1,12 +1,13 @@
 calculate-amzn-mp-credit
 ========================
 
-Calculate the amount to be credited from Amazon Marketplace(Japan) to seller account.
+Amazonマーケットプレイスの売上計算ツール  
+出品価格から売上額を算出する
 
     Item price
     + Shipping charges
     - Referral fee
     - Variable closing fee
-    - 100 yen per item fee
+    - 100 yen per item
     ----------
-    = Total deposited to seller account
+    = Revenue
